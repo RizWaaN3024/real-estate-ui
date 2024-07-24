@@ -3,9 +3,17 @@
     height: 100%;
     .details{
         flex: 3;
+
+        .wrapper{
+            padding-right: 50px;
+        }
     }
     .features{
         flex: 2;
         background-color: #fcf5f3;
+
+        .wrapper{
+            padding: 0px 20px;
+        }
     }
 }
