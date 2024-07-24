@@ -3,8 +3,9 @@ import "./singlePage.scss"
 
 const SinglePage = () => {
   return (
-    <div>
-      
+    <div className='singlePage'>
+      <div className='details'></div>
+      <div className='features'></div>
     </div>
   )
 }
