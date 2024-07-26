@@ -19,5 +19,4 @@ const Map = ({items}) => {
   </MapContainer>
   )
 }
-
 export default Map
