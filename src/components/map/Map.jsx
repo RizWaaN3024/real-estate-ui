@@ -7,6 +7,7 @@ import Pin from '../pin/Pin'
 const Map = ({items}) => {
     const position = [51.505, -0.09]
 
+    
   return (
 <MapContainer center={[51.505, -0.09]} zoom={7} scrollWheelZoom={false} className='map'>
     <TileLayer
