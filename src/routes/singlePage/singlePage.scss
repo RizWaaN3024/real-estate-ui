@@ -3,6 +3,8 @@
     height: 100%;
     .details{
         flex: 3;
+        height: 100%;
+        overflow-y: scroll;
 
         .wrapper{
             padding-right: 50px;
@@ -70,6 +72,8 @@
     .features{
         flex: 2;
         background-color: #fcf5f3;
+        height: 100%;
+        overflow-y: scroll;
 
         .wrapper{
             padding: 0px 20px;
